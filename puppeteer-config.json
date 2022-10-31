@@ -1,0 +1,4 @@
+{
+    "executablePath": "google-chrome-stable",
+    "args":["--no-sandbox"]
+}
